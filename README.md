@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Sami Bora Akoğuz. I am a freshmen student at Bilkent University and I am studying Computer Science.
 
 <!--
 **boraakoguz/boraakoguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
